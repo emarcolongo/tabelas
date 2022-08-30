@@ -1,0 +1,102 @@
+ID;IMPOSTO;REGIME;NOME
+00;ICMS;N;Tributada Integralmente
+10;ICMS;N;Tributada com cobrança de ICMS por ST
+20;ICMS;N;Com redução na base de cálculo
+30;ICMS;N;Isenta ou não tributada e com cobrança do ICMS por ST
+40;ICMS;N;Isenta
+41;ICMS;N;Não Tributada
+50;ICMS;N;Suspensão
+51;ICMS;N;Diferimento
+60;ICMS;N;Cobrado anteriormente por ST
+70;ICMS;N;Com redução na base de cálculo e cobrança do ICMS por ST
+90;ICMS;N;Outras
+101;ICMS;S;Tributada com permissão de crédito
+102;ICMS;S;Tributada sem permissão de crédito
+103;ICMS;S;Isenção do ICMS por faixa de receita bruta
+201;ICMS;S;Tributada com permissão de crédito e com cobrança do ICMS por ST
+202;ICMS;S;Tributada sem permissão de crédito e com cobrança do ICMS por ST
+203;ICMS;S;Isenção do ICMS para faixa de receita bruta e com cobrança de ICMS por ST
+300;ICMS;S;Imune
+400;ICMS;S;Não tributada
+500;ICMS;S;ICMS cobrado anteriormente por ST ou por antecipação
+900;ICMS;S;Outros
+00;IPI;;Entrada com recuperação de crédito
+01;IPI;;Entrada tributável com Alíquota Zero
+02;IPI;;Entrada Isenta
+03;IPI;;Entrada Não-Tributada
+04;IPI;;Entrada Imune
+05;IPI;;Entrada com Suspensão
+49;IPI;;Outras Entradas
+50;IPI;;Saída com recuperação de crédito
+51;IPI;;Saída tributável com Alíquota Zero
+52;IPI;;Saída Isenta
+53;IPI;;Saída Não-Tributada
+54;IPI;;Saída Imune
+55;IPI;;Saída com Suspensão
+99;IPI;;Outras Saídas
+01;PIS;;Operação Tributável com Alíquota Básica
+02;PIS;;Operação Tributável com Alíquota Diferenciada
+03;PIS;;Operação Tributável com Alíquota por Unidade de Medida de Produto
+04;PIS;;Operação Tributável Monofásica - Revenda a Alíquota Zero
+05;PIS;;Operação Tributável por Substituição Tributária
+06;PIS;;Operação Tributável a Alíquota Zero
+07;PIS;;Operação Isenta da Contribuição
+08;PIS;;Operação sem Incidência da Contribuição
+09;PIS;;Operação com Suspensão da Contribuição
+49;PIS;;Outras Operações de Saída
+50;PIS;;Operação com Direito a Crédito - Vinculada Exclusivamente a Receita Tributada no Mercado Interno
+51;PIS;;Operação com Direito a Crédito – Vinculada Exclusivamente a Receita Não Tributada no Mercado Interno
+52;PIS;;Operação com Direito a Crédito - Vinculada Exclusivamente a Receita de Exportação
+53;PIS;;Operação com Direito a Crédito - Vinculada a Receitas Tributadas e Não-Tributadas no Mercado Interno
+54;PIS;;Operação com Direito a Crédito - Vinculada a Receitas Tributadas no Mercado Interno e de Exportação
+55;PIS;;Operação com Direito a Crédito - Vinculada a Receitas Não-Tributadas no Mercado Interno e de Exportação
+56;PIS;;Operação com Direito a Crédito - Vinculada a Receitas Tributadas e Não-Tributadas no Mercado Interno, e de Exportação
+60;PIS;;Crédito Presumido - Operação de Aquisição Vinculada Exclusivamente a Receita Tributada no Mercado Interno
+61;PIS;;Crédito Presumido - Operação de Aquisição Vinculada Exclusivamente a Receita Não-Tributada no Mercado Interno
+62;PIS;;Crédito Presumido - Operação de Aquisição Vinculada Exclusivamente a Receita de Exportação
+63;PIS;;Crédito Presumido - Operação de Aquisição Vinculada a Receitas Tributadas e Não-Tributadas no Mercado Interno
+64;PIS;;Crédito Presumido - Operação de Aquisição Vinculada a Receitas Tributadas no Mercado Interno e de Exportação
+65;PIS;;Crédito Presumido - Operação de Aquisição Vinculada a Receitas Não-Tributadas no Mercado Interno e de Exportação
+66;PIS;;Crédito Presumido - Operação de Aquisição Vinculada a Receitas Tributadas e Não-Tributadas no Mercado Interno, e de Exportação
+67;PIS;;Crédito Presumido - Outras Operações
+70;PIS;;Operação de Aquisição sem Direito a Crédito
+71;PIS;;Operação de Aquisição com Isenção
+72;PIS;;Operação de Aquisição com Suspensão
+73;PIS;;Operação de Aquisição a Alíquota Zero
+74;PIS;;Operação de Aquisição sem Incidência da Contribuição
+75;PIS;;Operação de Aquisição por Substituição Tributária
+98;PIS;;Outras Operações de Entrada
+99;PIS;;Outras Operações
+01;COFINS;;Operação Tributável com Alíquota Básica
+02;COFINS;;Operação Tributável com Alíquota Diferenciada
+03;COFINS;;Operação Tributável com Alíquota por Unidade de Medida de Produto
+04;COFINS;;Operação Tributável Monofásica - Revenda a Alíquota Zero
+05;COFINS;;Operação Tributável por Substituição Tributária
+06;COFINS;;Operação Tributável a Alíquota Zero
+07;COFINS;;Operação Isenta da Contribuição
+08;COFINS;;Operação sem Incidência da Contribuição
+09;COFINS;;Operação com Suspensão da Contribuição
+49;COFINS;;Outras Operações de Saída
+50;COFINS;;Operação com Direito a Crédito - Vinculada Exclusivamente a Receita Tributada no Mercado Interno
+51;COFINS;;Operação com Direito a Crédito – Vinculada Exclusivamente a Receita Não Tributada no Mercado Interno
+52;COFINS;;Operação com Direito a Crédito - Vinculada Exclusivamente a Receita de Exportação
+53;COFINS;;Operação com Direito a Crédito - Vinculada a Receitas Tributadas e Não-Tributadas no Mercado Interno
+54;COFINS;;Operação com Direito a Crédito - Vinculada a Receitas Tributadas no Mercado Interno e de Exportação
+55;COFINS;;Operação com Direito a Crédito - Vinculada a Receitas Não-Tributadas no Mercado Interno e de Exportação
+56;COFINS;;Operação com Direito a Crédito - Vinculada a Receitas Tributadas e Não-Tributadas no Mercado Interno, e de Exportação
+60;COFINS;;Crédito Presumido - Operação de Aquisição Vinculada Exclusivamente a Receita Tributada no Mercado Interno
+61;COFINS;;Crédito Presumido - Operação de Aquisição Vinculada Exclusivamente a Receita Não-Tributada no Mercado Interno
+62;COFINS;;Crédito Presumido - Operação de Aquisição Vinculada Exclusivamente a Receita de Exportação
+63;COFINS;;Crédito Presumido - Operação de Aquisição Vinculada a Receitas Tributadas e Não-Tributadas no Mercado Interno
+64;COFINS;;Crédito Presumido - Operação de Aquisição Vinculada a Receitas Tributadas no Mercado Interno e de Exportação
+65;COFINS;;Crédito Presumido - Operação de Aquisição Vinculada a Receitas Não-Tributadas no Mercado Interno e de Exportação
+66;COFINS;;Crédito Presumido - Operação de Aquisição Vinculada a Receitas Tributadas e Não-Tributadas no Mercado Interno, e de Exportação
+67;COFINS;;Crédito Presumido - Outras Operações
+70;COFINS;;Operação de Aquisição sem Direito a Crédito
+71;COFINS;;Operação de Aquisição com Isenção
+72;COFINS;;Operação de Aquisição com Suspensão
+73;COFINS;;Operação de Aquisição a Alíquota Zero
+74;COFINS;;Operação de Aquisição sem Incidência da Contribuição
+75;COFINS;;Operação de Aquisição por Substituição Tributária
+98;COFINS;;Outras Operações de Entrada
+99;COFINS;;Outras Operações
